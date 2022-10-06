@@ -10,7 +10,7 @@ export default function Home() {
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
       <p>
-        hi
+        hiya bois
       </p>
       <Counter start={3} />
     </div>
